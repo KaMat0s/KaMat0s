@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Kaique Matos
 
-Me chamo Kaique Matos Costa, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Neolatino. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e Ciências da Computação na UNIP. Tenho contato com a tecnologia desde a infância, o que despertou meu interesse em compreender como os sistemas e softwares funcionam. Ao longo do tempo essa curiosidade evoluiu para um interesse pela área de programação. Atualmente busco desenvolver conhecimentos e habilidades em tecnologia, com foco no aprendizado e no aprimoramento na área de desenvolvimento de software.
+Me chamo Kaique Matos Costa, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Neolatino. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e Ciências da Computação na UNIP. Tenho contato com a tecnologia desde a infância, o que despertou meu interesse em compreender como os sistemas e softwares funcionam. Ao longo do tempo essa curiosidade evoluiu para um interesse pela área de programação. Atualmente busco desenvolver conhecimentos e habilidades em tecnologia, com foco no aprendizado e no aprimoramento na área de desenvolvimento de software.
 
 ---
 
