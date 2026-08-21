@@ -32,15 +32,3 @@ Me chamo Kaique Matos Costa, tenho 20 anos e sou natural de São Paulo. Concluí
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaMat0s&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaMat0s&layout=compact&theme=radical"/>
-
-</div>
-
----
